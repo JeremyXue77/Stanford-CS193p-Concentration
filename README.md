@@ -14,6 +14,7 @@ Make Stanford CS193p Concentration Game and finish it.
 * 完成 Homework // TODO:  Shuffle cards 打亂牌組 
 * 遊戲結束條件 & 重新遊戲邏輯
 * 調整點選卡片條件判斷
+* AutoLayout
 
 
 
